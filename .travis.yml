@@ -6,6 +6,7 @@ rvm:
 arch:
 - amd64
 - ppc64le
+- arm64
 cache:
   bundler: true
   directories:
